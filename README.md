@@ -7,28 +7,28 @@
 <table>
     <tr>
         <td>
-            <p>request sent</p>
-            <img src="images/image1.png" />
+            <p></p>
+            <img src="images/img1.png" />
         </td>
         <td>
-            <p>Job status</p>
-            <img src="images/image2.png" />
+            <p></p>
+            <img src="images/img2.png" />
         </td>
     </tr>
     <tr>
         <td>
-            <p>Jobs in admin pannel</p>
-            <img src="images/image3.png" />
+            <p></p>
+            <img src="images/img.png" />
         </td>
         <td>
-            <p>Job details</p>
-            <img src="images/image4.png" />
+            <p></p>
+            <img src="images/img.png" />
         </td>
     </tr>
     <tr >
         <td colspan="2">
-            <p>Job output data</p>
-            <img src="images/image5.png" />
+            <p></p>
+            <img src="images/img.png" />
         </td>
     </tr>
 </table>
