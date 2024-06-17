@@ -57,6 +57,8 @@ class CoinMarketCap:
         }
         return data
 
+
+
     def get_element_text(self, by, value):
         try:
             element = self.coin_state_section.find_element(by, value)
