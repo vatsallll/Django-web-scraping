@@ -18,17 +18,17 @@
     <tr>
         <td>
             <p></p>
-            <img src="images/img.png" />
+            <img src="images/img3.png" />
         </td>
         <td>
             <p></p>
-            <img src="images/img.png" />
+            <img src="images/img4.png" />
         </td>
     </tr>
     <tr >
         <td colspan="2">
             <p></p>
-            <img src="images/img.png" />
+            <img src="images/img5.png" />
         </td>
     </tr>
 </table>
